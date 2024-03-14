@@ -1,0 +1,37 @@
+{
+    "manifest_numbers": [
+      {
+        "id": "m1",
+        "field1": "field1",
+        "field2": "field2",
+        "field3": "field3",
+        "field4": "field4"
+      },
+      {
+        "id": "manifest2",
+        "field1": "field1",
+        "field2": "field2",
+        "field3": "field3",
+        "field4": "field4"
+      }
+    ],
+    "models": [
+      {
+        "id": "mo1",
+        "manifest_numbers": "m1",
+        "field1": "field1",
+        "field2": "field2",
+        "field3": "field3",
+        "field4": "field4"
+      },
+      {
+        "id": "model2",
+        "manifest_numbers": "manifest2",
+        "field1": "field1",
+        "field2": "field2",
+        "field3": "field3",
+        "field4": "field4"
+      }
+    ]
+  }
+  
